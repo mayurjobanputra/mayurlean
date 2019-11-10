@@ -1,8 +1,8 @@
 ---
 layout: category_index
 title: Blog
-permalink: /writing/
-category_name: writing
+permalink: /blog/
+category_name: blog
 
 ---
 <!--
